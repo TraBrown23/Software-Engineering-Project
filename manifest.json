@@ -1,6 +1,6 @@
  {
-    "name": "Getting Started Example",
+    "name": "Handy Mail",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Quickly send emails from this extension!",
     "manifest_version": 2
  }
