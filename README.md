@@ -16,13 +16,13 @@ I think this page and a few others about the gmail api will be very helpful.
 
 
 Homework for tuesday
-Tessa - review html and design pages
 
-Jamie
+Tessa - design what the drop down should look like
 
-Trajon
+Jamie - HTML formating
 
-Troy
+Trajon - Figure out how to make the extension buttons do something on a click
 
-Kyle
+Troy - Figure out how to make the extension buttons do something on a click
 
+Kyle - Google API how to pull what account is logged into chrome
