@@ -7,7 +7,7 @@ basic chrome extension building information https://developer.chrome.com/extensi
 
 basic html information https://www.w3schools.com/html/html_examples.asp
 
-gmail api information https://developers.google.com/gmail/api/v1/reference/
+gmail api information https://developers.google.com/gmail/api/v1/reference/users/messages/send
 I think this page and a few others about the gmail api will be very helpful.
 
 -Requirements-
