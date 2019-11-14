@@ -16,8 +16,13 @@ I think this page and a few others about the gmail api will be very helpful.
 
 
 Homework for tuesday
-Tessa
+Tessa - review html and design pages
+
 Jamie
+
 Trajon
+
 Troy
+
 Kyle
+
