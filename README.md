@@ -7,6 +7,8 @@ basic chrome extension building information https://developer.chrome.com/extensi
 
 basic html information https://www.w3schools.com/html/html_examples.asp
 
+gmail api information https://developers.google.com/gmail/api/v1/reference/
+
 -Requirements-
  
  Doc: https://docs.google.com/document/d/1YNeSbCAye7_Xt9tNAJM6msRdN9kJFyi3aFHpLJTCHWs/edit?usp=sharing
