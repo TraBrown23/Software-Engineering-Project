@@ -15,4 +15,9 @@ I think this page and a few others about the gmail api will be very helpful.
  Doc: https://docs.google.com/document/d/1YNeSbCAye7_Xt9tNAJM6msRdN9kJFyi3aFHpLJTCHWs/edit?usp=sharing
 
 
-Homewokr for tuesday
+Homework for tuesday
+Tessa
+Jamie
+Trajon
+Troy
+Kyle
