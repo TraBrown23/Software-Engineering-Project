@@ -25,4 +25,4 @@ Trajon - Figure out how to make the extension buttons do something on a click
 
 Troy - Figure out how to make the extension buttons do something on a click
 
-Kyle - Google API how to pull what account is logged into chrome
+Kyle - Google API how to pull what account is logged into chrome -https://stackoverflow.com/questions/38985220/google-chrome-extension-how-to-find-out-if-a-user-has-signed-in-to-the-chrome-b
