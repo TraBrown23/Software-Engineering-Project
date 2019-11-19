@@ -1,7 +1,7 @@
   {
-    "name": "Getting Started Example",
+    "name": "Handy Mail Extension",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Woohoo",
     "permissions": ["activeTab", "declarativeContent", "storage"],
 	"options_page": "options.html",
     "background": {
