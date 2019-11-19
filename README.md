@@ -10,6 +10,8 @@ basic html information https://www.w3schools.com/html/html_examples.asp
 gmail api information https://developers.google.com/gmail/api/v1/reference/users/messages/send
 I think this page and a few others about the gmail api will be very helpful.
 
+StackOverflow on how to actually send email via html: https://stackoverflow.com/questions/8239782/how-to-create-an-email-form-that-can-send-email-using-html
+
 -Requirements-
  
  Doc: https://docs.google.com/document/d/1YNeSbCAye7_Xt9tNAJM6msRdN9kJFyi3aFHpLJTCHWs/edit?usp=sharing
