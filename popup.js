@@ -1,5 +1,7 @@
   let changeColor = document.getElementById('changeColor');
-
+function openWin() {
+  myWindow = window.open("", "", "width=100, height=100");  // Opens a new window
+}
   chrome.storage.sync.get('color', function(data) {
     changeColor.style.backgroundColor = data.color;
     changeColor.setAttribute('value', data.color);

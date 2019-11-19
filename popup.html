@@ -10,7 +10,14 @@
       </style>
     </head>
     <body>
-      <button id="changeColor"></button>
+
+      <form action="/action_page.php">
+		From: <input type="text" name="sender"><br>
+	    To: <input type="text" name="recipient"><br>
+		<textarea autofocus name="emailbody">Enter email body here</textarea>
+		<input type="submit" value="Submit">
+      </form>
 	  <script src="popup.js"></script>
     </body>
   </html>
+  
