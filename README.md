@@ -19,12 +19,13 @@ StackOverflow on how to actually send email via html: https://stackoverflow.com/
 
 Homework for tuesday
 
-Tessa - Researching sending Google API
+Tessa - Learn sending Google API
 
 Jamie - Researching sending Google API
 
-Trajon - Figure out how to make the extension buttons do something on a click
+Trajon - Become google API
 
-Troy - Figure out how to make the extension buttons do something on a click
+Troy - own google API
 
-Kyle - Google API how to pull what account is logged into chrome -https://stackoverflow.com/questions/38985220/google-chrome-extension-how-to-find-out-if-a-user-has-signed-in-to-the-chrome-b
+Kyle - google API!
+Google API how to pull what account is logged into chrome -https://stackoverflow.com/questions/38985220/google-chrome-extension-how-to-find-out-if-a-user-has-signed-in-to-the-chrome-b
