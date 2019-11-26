@@ -19,9 +19,9 @@ StackOverflow on how to actually send email via html: https://stackoverflow.com/
 
 Homework for tuesday
 
-Tessa - design what the drop down should look like
+Tessa - Researching sending Google API
 
-Jamie - HTML formating
+Jamie - Researching sending Google API
 
 Trajon - Figure out how to make the extension buttons do something on a click
 
