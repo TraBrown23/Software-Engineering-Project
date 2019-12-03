@@ -12,6 +12,9 @@ I think this page and a few others about the gmail api will be very helpful.
 
 StackOverflow on how to actually send email via html: https://stackoverflow.com/questions/8239782/how-to-create-an-email-form-that-can-send-email-using-html
 
+one other posibility would be to use the chrome app version instead of extension version.
+https://developer.chrome.com/apps/app_codelab_basics
+
 -Requirements-
  
  Doc: https://docs.google.com/document/d/1YNeSbCAye7_Xt9tNAJM6msRdN9kJFyi3aFHpLJTCHWs/edit?usp=sharing
