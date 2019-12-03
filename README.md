@@ -15,6 +15,9 @@ StackOverflow on how to actually send email via html: https://stackoverflow.com/
 one other posibility would be to use the chrome app version instead of extension version.
 https://developer.chrome.com/apps/app_codelab_basics
 
+This is an example extension of what we are trying to do.
+https://jasonsavard.com/Checker-Plus-for-Gmail
+
 -Requirements-
  
  Doc: https://docs.google.com/document/d/1YNeSbCAye7_Xt9tNAJM6msRdN9kJFyi3aFHpLJTCHWs/edit?usp=sharing
