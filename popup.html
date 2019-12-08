@@ -10,15 +10,19 @@
       </style>
     </head>
     <body>
-
-      <form action="/action_page.php">
+		
+      <form action="https://mail.google.com/mail/?view=cm&fs=1" method="get" target="_blank">
+        
 		<!--<label for="From:">From:</label> -->
-		<input autofocus type="email" name="sender" placeholder="To:" style="width:252px;"><br>
-		<!--<label for="To:">To:  </label>    -->
-		<input type="email" name="recipient" placeholder="From:" style="width:252px;"><br>
-		<!--<label for="Email">Email:</label> -->
-		<textarea name="emailbody" style="width:250px; height:200px;" placeholder="Enter email body here"></textarea><br>
+		<!--<input autofocus type="email" name="sender" placeholder="To:" style="width:252px;"><br> -->
+		<input type="email" name="&to=" placeholder="To:" style="width:252px;"><br>
+		<input type="subject" name="&=su" placeholder="Subject" style="width:252;"><br> 
+		<textarea name="&body=" style="width:250px; height:200px;" placeholder="Enter email body here"></textarea><br>
 		<input type="submit" value="Submit">
+		<!--<label for="To:">To:  </label>    -->
+		
+		<!--<label for="Email">Email:</label> -->
+		
       </form>
 	  <script src="popup.js"></script>
     </body>
